@@ -1,6 +1,6 @@
 # CHARACTERISTICS-OF-PN-JUNCTION-DIODE
-### Name: Sushil Shiva R
-### Reg no: 212224250017
+### Name: tamizh tharanya v
+### Reg no: 212224250018
 ## AIM:
 Study of semiconductor diode characteristics under forward and reverse bias
 condition.
